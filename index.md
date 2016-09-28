@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SOD蜜的主页
+title: Leon的自留地
 tagline: 程序员自说自话的地方 
 ---
 {% include JB/setup %}
